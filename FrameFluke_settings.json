@@ -1,0 +1,8 @@
+{
+    "channels": "rgba",
+    "premult": true,
+    "crop": false,
+    "extension": "exr",
+    "name_pattern": "{counter:03}_{node_name}_{frame:04}.{extension}"
+}
+
