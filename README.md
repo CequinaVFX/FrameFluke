@@ -13,7 +13,7 @@ Download the FrameFluke repository, rename the downloaded folder to ***FrameFluk
 
 Add the following line to your init.py file, which is typically located in your .nuke folder:
 ```bash
-"nuke.pluginAddPath('./FrameFluke')"
+nuke.pluginAddPath('./FrameFluke')
 ```
 [Locating the default .nuke directory](https://support.foundry.com/hc/en-us/articles/207271649-Q100048-Nuke-Directory-Locations)
 
